@@ -11,20 +11,12 @@ A simple CRUD (Create, Read, Update, Delete) application built using React and A
 
 ## Live Demo
 
-Check out the live demo of the project: [Axios using CRUD demo](/)
+Check out the live demo of the project: [Axios using CRUD demo](https://react-axios-task-using-crud.netlify.app/)
 
 ## Screenshots
 
 <img src='./public/video/axios-preview.png'/>
 
-## Installation and Setup
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
 
 ## Install dependencies:
 
